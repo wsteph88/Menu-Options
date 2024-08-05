@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Customizable Dropdown Menus</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <nav>
+    <ul class="main-menu">
+      </ul>
+  </nav>
+  <script src="script.js"></script>
+</body>
+</html>
